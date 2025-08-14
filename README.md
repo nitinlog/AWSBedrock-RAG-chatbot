@@ -1,5 +1,5 @@
 # AWSBedrock-RAG-chatbot
-An AI-powered recipe assistant built with AWS Bedrock, AWS S3, FAISS Vector store, and Python Streamlit.
+An AI-powered recipe assistant built with AWS Bedrock, AWS S3, LangChain for Orchestartion and multi step reasoning, FAISS Vector store, and Python Streamlit.
 ##  Retrieval-Augmented Generation (RAG)
 # Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline for documents (PDFs). The system allows an admin to upload PDF files containing content, which are then processed and indexed to enable fast semantic search and question answering.
